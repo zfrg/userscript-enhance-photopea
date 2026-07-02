@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Photopea窗口图标&标题栏宽度优化
 // @namespace    https://github.com/zfrg/userscript-enhance-photopea
-// @version      2026-07-02
+// @version      1.0.2
 // @description  优化 Photopea PWA 使用体验
 // @author       zfrg
 // @match        https://www.photopea.com/*
